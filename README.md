@@ -3,6 +3,15 @@
 
 ### Hi there 👋
 
+### Company
+
+* N2M
+: 2010.05 ~ 
+
+* NEX Telecom
+: 2008.02 ~ 2009.10
+
+
 [![Jangsalt's github stats](https://github-readme-stats.vercel.app/api?username=jangsalt)](https://github.com/jangsalt/github-readme-stats)
 
 <!--
