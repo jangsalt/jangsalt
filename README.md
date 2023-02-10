@@ -12,11 +12,11 @@
 : 2008.02 ~ 2009.10
 
 
-<!--
-[![Jangsalt's github stats](https://github-readme-stats.vercel.app/api?username=jangsalt)](https://github.com/jangsalt/github-readme-stats)
--->
+<!-- -->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jangsalt&count_private=true)](https://github.com/jangsalt/github-readme-stats)
+[![Jangsalt's GitHub stats](https://github-readme-stats.vercel.app/api?username=jangsalt&count_private=true)](https://github.com/jangsalt/github-readme-stats)
+
+[![Jangsalt Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jangsalt&count_private=true)](https://github.com/jangsalt/github-readme-stats)
 
 
 <!--
