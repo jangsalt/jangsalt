@@ -12,12 +12,12 @@
 : 2008.02 ~ 2009.10
 
 
-<!-- -->
+<!-- 
 
 [![Jangsalt's GitHub stats](https://github-readme-stats.vercel.app/api?username=jangsalt&count_private=true)](https://github.com/jangsalt/github-readme-stats)
 
 [![Jangsalt Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jangsalt&count_private=true)](https://github.com/jangsalt/github-readme-stats)
-
+-->
 
 <!--
 **jangsalt/jangsalt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
