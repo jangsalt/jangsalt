@@ -10,12 +10,16 @@
 
 * NEX Telecom
 : 2008.02 ~ 2009.10
+
+
+### Skill
+
+<!-- #### Frontend
+![git](https://img.shields.io/badge/-Git-F05032?&style=flat&logo=Git&logoColor=white)
+
+ -->
+ 
 <!--
-![git](https://img.shields.io/badge/로고명-원하는색상코드.svg?&style=for-the-badge&logo=로고명&logoColor=로고색상)
-
-<a href = "https://github.com/jangsalt"><img alt="GitHub" src ="https://simpleicons.org/icons/git.svg?&style=flat&logo=Git&logoColor=#181717"/></a>
-
-
 
 ### Skill
 
